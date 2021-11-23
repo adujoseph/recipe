@@ -1,0 +1,28 @@
+{
+    "translation": {
+        "All": "nri",
+        "Food":"ihe ọṅụṅụ",
+        "Drink":"niile",
+        "SelectLanguage" : "Họrọ asụsụ gị",
+        "LanguageOption" :["english", "yoruba", "french", "igbo"],
+        "Search": "Chọọ",
+        "Category": "Ụdị",
+        "Categories": ["nri", "ihe ọṅụṅụ", "niile"],
+        "Left": "ekpe",
+        "Right": "Ezigbo",
+        "Pancake": "Pancake",
+        "Salad": "Salad",
+        "Home": "Ụlọ",
+        "Upload": "Bulite",
+        "Scan": "Nyocha",
+        "Notification": "Ịma Ọkwa",
+        "Profile": "Profaịlụ",
+        "Minutes": "Nkeji",
+        "Description": "Nkọwa",
+        "Ingredient": "Egwere",
+        "Eggs": "Eggs",
+        "Butter": "Bọta",
+        "Likes": "Masịrị",
+        "FullDesc": "Ebugola usoro nri gị, ị ga-ahụ ya na profaịlụ gị. Ebugola usoro nri gị, ị ga-ahụ ya na nke gị"
+    }
+}

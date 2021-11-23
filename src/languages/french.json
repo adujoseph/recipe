@@ -1,0 +1,28 @@
+{
+    "translation":{
+        "All":"nourriture",
+        "Food":"boisson",
+        "Drink":"tous",
+        "SelectLanguage" : "Sélectionnez votre langue",
+        "LanguageOption" :["anglais", "yoruba", "français", "igbo"],
+        "Search": "Search",
+        "Category": "Catégorie",
+        "Categories": ["nourriture", "boisson", "tous"],
+        "Left": "Gauche",
+        "Right": "Droit",
+        "Pancake": "Crêpe",
+        "Salad": "Salade",
+        "Home": "Masion",
+        "Upload": "Telecharger",
+        "Scan": "Scanner",
+        "Notification": "Notification",
+        "Profile": "Profil",
+        "Minutes": "Minutes",
+        "Description": "Description",
+        "Ingredient": "Ingredient",
+        "Eggs": "Oeufs",
+        "Butter": "Beurre",
+        "Likes": "J'aime",
+        "FullDesc": "Votre recette a été téléchargée, vous pouvez la voir sur votre profil. Votre recette a été téléchargée, vous pouvez la voir sur votre"
+    }
+}

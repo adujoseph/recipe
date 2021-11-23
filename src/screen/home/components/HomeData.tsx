@@ -1,0 +1,38 @@
+export const HomeData = [
+  {
+    id: 1,
+    profile: require('../../../../assets/images/person2.png'),
+    name: 'Calum Lewis',
+    foodname: 'Pancake',
+    foodimage: require('../../../../assets/images/01.png'),
+    type: 'Food',
+    duration: '60 ',
+  },
+  {
+    id: 2,
+    profile: require('../../../../assets/images/person4.png'),
+    name: 'Eilif Sonas',
+    foodname: 'Salad',
+    foodimage: require('../../../../assets/images/02.png'),
+    type: 'Food',
+    duration: '60 ',
+  },
+  {
+    id: 3,
+    profile: require('../../../../assets/images/person3.png'),
+    name: 'Elena Shelby',
+    foodname: 'Salad',
+    foodimage: require('../../../../assets/images/04.png'),
+    type: 'Food',
+    duration: '60 ',
+  },
+  {
+    id: 4,
+    profile: require('../../../../assets/images/person1.png'),
+    name: 'John Priyadi',
+    foodname: 'Salad',
+    foodimage: require('../../../../assets/images/05.png'),
+    type: 'Food',
+    duration: '60 ',
+  },
+];

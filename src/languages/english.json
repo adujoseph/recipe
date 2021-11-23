@@ -1,0 +1,28 @@
+{
+    "translation":{
+    "All": "All",
+    "Food":"Food",
+    "Drink":"Drink",
+    "SelectLanguage" : "Select your preffered language",
+    "LanguageOption" :["english", "yoruba", "french", "igbo"],
+    "Search": "Search",
+    "Category": "Category",
+    "Categories": ["food", "drink", "all"],
+    "Left": "Left",
+    "Right": "Right",
+    "Pancake": "Pancake",
+    "Salad": "Salad",
+    "Home": "Home",
+    "Upload": "Upload",
+    "Scan": "Scan",
+    "Notification": "Notification",
+    "Profile": "Profile",
+    "Minutes": "Mins",
+    "Description": "Description",
+    "Ingredient": "Ingredients",
+    "Eggs": "Eggs",
+    "Butter": "Butter",
+    "Likes": "Likes", 
+    "FullDesc": "Your recipe has been uploaded, you can see it on your profile. Your recipe has been uploaded, you can see it on your"
+   }
+}

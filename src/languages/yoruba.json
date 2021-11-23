@@ -1,0 +1,28 @@
+{
+    "translation":{
+        "All": "Gbogbo",
+    "Food":"Ounje",
+    "Drink":"Oun mimu",
+        "SelectLanguage" : "Yan Ede to fe lo",
+        "LanguageOption" :["Geesi", "Yoruba", "Faranse", "Igbo"],
+        "Search": "Sawari",
+        "Category": "Eka",
+        "Categories": ["Ounje", "Oun mi mu", "Gbogbo re"],
+        "Left": "Osi",
+        "Right": "Otun",
+        "Pancake": "Akara oyinbo",
+        "Salad": "Ewebe",
+        "Home": "Ile",
+        "Upload": "Ìrùsókè",
+        "Scan": "Sayewo",
+        "Notification": "Ikede",
+        "Profile": "Tani mi",
+        "Minutes": "Iseju",
+        "Description": "Apejuwe",
+        "Ingredient": "Eroja",
+        "Eggs": "Eyin",
+        "Butter": "Bota",
+        "Likes": "Feran",
+        "FullDesc": "A ti gbe ohunelo rẹ silẹ, o le rii lori profaili rẹ. Rẹ ilana ti a ti Àwọn, o ti le ri lori rẹ"
+    }
+}
